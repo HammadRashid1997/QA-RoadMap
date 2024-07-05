@@ -18,7 +18,8 @@ Welcome to the ultimate QA roadmap, your comprehensive guide to mastering the ar
 ![RoadMap](images/Roadmap.jpg)
 
 ## Documentation
-Feel free to view the pdf, QA RoadMap.pdf.
+[Roadmap to become a QA Engineer](https://github.com/HammadRashid1997/QA-RoadMap/blob/main/roadmap.pdf)
+
 ## 🧔Advice
 
 Here are a few suggestions for those who wish to excel in this field.
