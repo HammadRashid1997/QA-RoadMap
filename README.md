@@ -17,6 +17,8 @@ Welcome to the ultimate QA roadmap, your comprehensive guide to mastering the ar
 ## 🚡RoadMap
 ![RoadMap](images/Roadmap.jpg)
 
+## Documentation
+Feel free to view the pdf, QA RoadMap.pdf.
 ## 🧔Advice
 
 Here are a few suggestions for those who wish to excel in this field.
