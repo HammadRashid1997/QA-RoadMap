@@ -1,6 +1,9 @@
 # QA-RoadMap
 Discover the ultimate roadmap to becoming a rockstar QA Engineer! 🚀🔍
 
+## Contributors:
+- Hammad Rashid
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Key](#key)
@@ -37,3 +40,4 @@ Here are a few suggestions for those who wish to excel in this field.
 - Stay consistent and persistent while learning.
 - Try to explore new things during your learning phase. Try to think out of the box and learn new things.
 - Remember this is not the end. Always strive hard to learn more!
+
