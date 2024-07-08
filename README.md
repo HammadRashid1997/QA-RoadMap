@@ -22,6 +22,9 @@ To view the key, refer here.
 ## 🚡RoadMap
 ![RoadMap](images/Roadmap.jpg)
 
+## Documentation
+You can view the documentation to the roadmap here. [Roadmap to become a QA Engineer](https://github.com/HammadRashid1997/QA-RoadMap/blob/main/roadmap.pdf)
+
 ## 🧔Advice
 
 Here are a few suggestions for those who wish to excel in this field.
