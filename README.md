@@ -16,7 +16,7 @@ Discover the ultimate roadmap to becoming a rockstar QA Engineer! 🚀🔍
 Welcome to the ultimate QA roadmap, your comprehensive guide to mastering the art and science of Quality Assurance! Whether you're a budding QA enthusiast or an experienced tester aiming to sharpen your skills, this roadmap is designed to equip you with the knowledge, tools, and best practices needed to excel in the dynamic field of QA. Embark on this journey with us, and discover the path to becoming a top-tier QA Engineer, ready to tackle any challenge with confidence and expertise. Let's dive in and make quality our top priority!
 
 ## 🔑Key
-To view the key of the roadmap, refer here.
+To view the key, refer here.
 [Key](https://github.com/HammadRashid1997/QA-RoadMap/blob/main/images/Key.jpg)
 
 ## 🚡RoadMap
@@ -40,4 +40,3 @@ Here are a few suggestions for those who wish to excel in this field.
 - Always remember, "Slow and steady wins the race." Utilize your time in understanding the concepts instead of completing the journey.
 - Try to explore new things during your learning phase. Try to think out of the box and learn new things. You can always use Google, ChatGPT or even manuals and books to learn anything you want.
 - Remember this is not the end. Always strive hard to learn more!
-
