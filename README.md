@@ -22,14 +22,6 @@ To view the key, refer here.
 ## 🚡RoadMap
 ![RoadMap](images/Roadmap.jpg)
 
-## 🗞️Documentation
-You can view the complete documentation of the RoadMap here.
-[Roadmap to become a QA Engineer](https://github.com/HammadRashid1997/QA-RoadMap/blob/main/roadmap.pdf)
-
-## 🖋️Articles
-I have been writing blogs and articles on various QA topics and techniques. You can read my work on Medium. 
-Here is the link to my articles: [My Articles](https://medium.com/@hammad.rashid_73904)
-
 ## 🧔Advice
 
 Here are a few suggestions for those who wish to excel in this field.
