@@ -34,10 +34,10 @@ Here is the link to my articles: [My Articles](https://medium.com/@hammad.rashid
 
 Here are a few suggestions for those who wish to excel in this field.
 
-- Never ever skip any step thinking this is not important for me. Every step carries its own importance and is equally important while learning.
-- Do no engage yourself in learning multiple steps simultaneously. This will lead to a havoc and you might end up losing interest in SQA 😔
-- Always remember, "Slow and steady wins the race." Utilize your time in understanding the concepts instead of completing the journey.
 - Stay consistent and persistent while learning.
-- Try to explore new things during your learning phase. Try to think out of the box and learn new things.
+- Never ever skip any step thinking it is not important. Every step carries its own importance and is equally important while learning.
+- Do no engage yourself in learning multiple items simultaneously. This will lead to a havoc and you might end up losing interest in SQA 😔
+- Always remember, "Slow and steady wins the race." Utilize your time in understanding the concepts instead of completing the journey.
+- Try to explore new things during your learning phase. Try to think out of the box and learn new things. You can always use Google, ChatGPT or even manuals and books to learn anything you want.
 - Remember this is not the end. Always strive hard to learn more!
 
