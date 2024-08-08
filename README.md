@@ -40,4 +40,4 @@ Here are a few suggestions for those who wish to excel in this field.
 - Always remember, "Slow and steady wins the race." Utilize your time in understanding the concepts instead of completing the journey.
 - Try to explore new things during your learning phase. Try to think out of the box and learn new things. You can always use Google, ChatGPT or even manuals and books to learn anything you want.
 
-### Remember this is not the end. Always strive hard to learn more and you will succeed. Happy Learning!😊
+### Happy Learning!😊
