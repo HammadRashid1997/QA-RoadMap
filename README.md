@@ -39,4 +39,3 @@ Here are a few suggestions for those who wish to excel in this field.
 - Try to explore new things during your learning phase. Try to think out of the box and learn new things. You can always use Google, ChatGPT or even manuals and books to learn anything you want.
 
 ### Happy Learning!😊
-
