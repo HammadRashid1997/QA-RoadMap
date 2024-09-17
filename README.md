@@ -32,10 +32,10 @@ I write articles and blogs on Medium as well. You can view them here. [My Articl
 
 Here are a few suggestions for those who wish to excel in this field.
 
-- Stay consistent and persistent while learning.
-- Never ever skip any step thinking it is not important. Every step carries its own importance and is equally important while learning.
-- Do no engage yourself in learning multiple items simultaneously. This will lead to a havoc and you might end up losing interest in SQA 😔
-- Always remember, "Slow and steady wins the race." Utilize your time in understanding the concepts instead of completing the journey.
-- Try to explore new things during your learning phase. Try to think out of the box and learn new things. You can always use Google, ChatGPT or even manuals and books to learn anything you want.
+- Be consistent and persistent.
+- Every step of the ladder is significant for you to reach your goal. Do not skip a single step thinking you can cover it later on.
+- Do not engage yourself learning multiple things at a time. You will end up losing interest in SQA 😔
+- **"Slow and steady wins the race."** Utilize your time in understanding the concepts instead of completing the journey.
+- You can follow my **FREL priniciple** 😉. Find 🤔, Read 📖, Explore 🤯, Learn 🏫!
 
 ### Happy Learning!😊
