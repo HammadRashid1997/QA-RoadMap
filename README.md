@@ -20,7 +20,7 @@ To view the key, refer here.
 [Key](https://github.com/HammadRashid1997/QA-RoadMap/blob/main/images/Key.jpg)
 
 ## 🚡RoadMap
-![RoadMap](images/Roadmap.jpg)
+![RoadMap](images/Roadmap.png)
 
 ## Documentation
 You can view the documentation to the roadmap here. [Roadmap to become a QA Engineer](https://github.com/HammadRashid1997/QA-RoadMap/blob/main/roadmap.pdf)
