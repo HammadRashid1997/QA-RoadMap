@@ -32,7 +32,7 @@ Here are a few suggestions for those who wish to excel in this field.
 - Every step of the ladder is significant for you to reach your goal. Do not skip a single step thinking you can cover it later on.
 - Do not engage yourself learning multiple things at a time. You will end up losing interest in SQA 😔
 - **"Slow and steady wins the race."** Utilize your time in understanding the concepts instead of completing the journey.
-- You can follow my **FREL priniciple** 😉. Find 🤔, Read 📖, Explore 🤯, Learn 🏫!
+- You can follow my **FREL priniciple** 😉. Find 🤔, Read 📖, Explore 🤯, Learn 🏫!(This is a self made principle. You won't find it anywhere😉)
 
 ### Happy Learning!😊
 
