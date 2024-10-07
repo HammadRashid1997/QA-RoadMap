@@ -8,6 +8,7 @@ Discover the ultimate roadmap to becoming a rockstar QA Engineer! 🚀🔍
 - [Introduction](#introduction)
 - [RoadMap](#roadmap)
 - [Documentation](#documentation)
+- [Assessment](@assessment)
 - [Articles](#articles)
 - [Advice](#advice)
 
@@ -19,6 +20,10 @@ You can view the roadmap here: [QA Roadmap](https://miro.com/app/board/uXjVLZloI
 
 ## Documentation
 You can view the documentation to the roadmap here. [Roadmap to become a QA Engineer](https://github.com/HammadRashid1997/QA-RoadMap/blob/main/roadmap.pdf)
+
+## Assessment
+Once you have completed the roadmap and are confident enough, feel free to attempt a simple assessment that I have uploaded. You can access the assessment here: [QA Assessment](https://github.com/HammadRashid1997/QA-RoadMap/blob/main/Assessment.pdf)
+
 
 ## Articles
 I write articles and blogs on Medium as well. You can view them here. [My Articles](https://medium.com/@hammad.rashid_73904)
