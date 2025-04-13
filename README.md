@@ -39,5 +39,3 @@ Here are a few suggestions for those who wish to excel in this field.
 - You can follow my **FREL priniciple** 😉. Find 🤔, Read 📖, Explore 🤯, Learn 🏫!(This is a self made principle. You won't find it anywhere😉)
 
 ### Happy Learning!😊
-
-
