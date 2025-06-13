@@ -6,7 +6,6 @@ Discover the ultimate roadmap to becoming a rockstar QA Engineer! 🚀🔍
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Key](#key)
 - [RoadMap](#roadmap)
 - [Documentation](#documentation)
 - [Assessment](@assessment)
@@ -23,6 +22,9 @@ To view the key, refer here.
 ## 🚡 RoadMap
 ![RoadMap](images/Roadmap.jpg)
 
+You can view the roadmap here: [QA Roadmap](https://miro.com/app/board/uXjVLZloItc=/)
+
+
 ## Documentation
 You can view the documentation to the roadmap here. [Roadmap to become a QA Engineer](https://github.com/HammadRashid1997/QA-RoadMap/blob/main/roadmap.pdf)
 
@@ -33,6 +35,7 @@ Once you have completed the roadmap and are confident enough, feel free to attem
 I write articles and blogs on Medium as well. You can view them here. [My Articles](https://medium.com/@hammad.rashid_73904)
 
 ## 🧔 Advice
+=======
 
 Here are a few suggestions for those who wish to excel in this field.
 
@@ -40,6 +43,6 @@ Here are a few suggestions for those who wish to excel in this field.
 - Every step of the ladder is significant for you to reach your goal. Do not skip a single step thinking you can cover it later on.
 - Do not engage yourself learning multiple things at a time. You will end up losing interest in SQA 😔
 - **"Slow and steady wins the race."** Utilize your time in understanding the concepts instead of completing the journey.
-- You can follow my **FREL priniciple** 😉. Find 🤔, Read 📖, Explore 🤯, Learn 🏫!
+- You can follow my **FREL priniciple** 😉. Find 🤔, Read 📖, Explore 🤯, Learn 🏫!(This is a self made principle. You won't find it anywhere😉)
 
 ### Happy Learning! 😊
