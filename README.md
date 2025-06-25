@@ -23,7 +23,6 @@ To view the key, refer here.
 
 You can view the roadmap here: [QA Roadmap](https://miro.com/app/board/uXjVLZloItc=/)
 
-
 ## Documentation
 You can view the documentation to the roadmap here. [Roadmap to become a QA Engineer](https://github.com/HammadRashid1997/QA-RoadMap/blob/main/roadmap.pdf)
 
