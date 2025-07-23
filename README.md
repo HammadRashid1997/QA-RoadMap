@@ -40,4 +40,4 @@ Here are a few suggestions for those who wish to excel in this field.
 - Do not engage yourself learning multiple things at a time. You will end up losing interest 😔
 - **"Slow and steady wins the race."** Utilize your time in understanding the concepts instead of completing the journey.
   
-### Happy Learning! 😊
+### Happy Learning!
